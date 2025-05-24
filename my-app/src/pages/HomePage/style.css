@@ -33,7 +33,7 @@ section {
 }
 
 section.dark {
-  background-color: gray;
+  background-color: #131e2a;
   color: white;
 }
 
@@ -65,6 +65,7 @@ section.dark *::-webkit-scrollbar-thumb:hover {
 
 section.light {
   background-color: #e8e9f3;
+  color: black;
 }
 
 img {
@@ -76,7 +77,7 @@ img {
 .banner {
   width: 100%;
   aspect-ratio: 16/9;
-  background-image: url(./img/image2.svg);
+  background-image: url(./img/hotel.jpg);
   background-size: cover;
 }
 
